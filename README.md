@@ -1,5 +1,7 @@
-# Vue 3 + TypeScript + Vite
+OffscreenCanvas API Demo
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+本 Demo 演示了 OffscreenCanvas API 的用法，并对比了在浏览器中使用 OffscreenCanvas API 和使用普通 Canvas 在主线程执行长任务时的差异。
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+演示：
+
+<video src="https://minio.jmxr.fun/storage/public-resources/offscreenCanvas.mp4" controls width="100%"></video>
