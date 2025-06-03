@@ -4,4 +4,4 @@ OffscreenCanvas API Demo
 
 演示：
 
-<video src="https://minio.jmxr.fun/storage/public-resources/offscreenCanvas.mp4" controls width="100%"></video>
+[![视频封面](https://minio.jmxr.fun/storage/public-resources/offscreenCanvas.png)](https://minio.jmxr.fun/storage/public-resources/offscreenCanvas.mp4)
