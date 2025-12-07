@@ -4,4 +4,4 @@ OffscreenCanvas API Demo
 
 点击图片查看演示视频：
 
-[![视频封面](https://minio.jmxr.fun/storage/public-resources/offscreenCanvas.png)](https://minio.jmxr.fun/storage/public-resources/offscreenCanvas.mp4)
+[![视频封面](https://s3.minio.jmxr.fun/public-resources/offscreenCanvas.png)](https://s3.minio.jmxr.fun/public-resources/offscreenCanvas.mp4)
